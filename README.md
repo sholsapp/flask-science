@@ -36,3 +36,8 @@ Start the web server on your local machine using Flask-Manager.
 
 Then, in your browser, navigate to http://127.0.0.1:5000/ or
 http://127.0.0.1:5000/data.
+
+### stop the web server
+
+To stop the web server, you'll need to push CTRL-C twice: once to kill the
+worker, and again to kill the web application.
