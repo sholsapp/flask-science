@@ -1,4 +1,4 @@
-# flask-skeleton
+# flask-science
 
 A "hello world" style Flask web server application that can be used to collect
 and vend scientific data.
